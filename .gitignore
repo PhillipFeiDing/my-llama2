@@ -155,6 +155,9 @@ cython_debug/
 # models
 /llama-2-7b
 /llama-2-7b-chat
+/llama-2-7b-hf
+/tune-output
+/tune-data
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
